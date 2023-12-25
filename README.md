@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning c++,javascript,html,css,sql<br><br>💬 Ask me about c++<br><br>📫 How to reach me rohitsnegi72@gmail.com<br>
+🌱 I’m currently learning **c++,javascript,html,css,sql**<br><br>💬 Ask me about **c++, javascrip**t<br><br>📫 How to reach me **rohitsnegi72@gmail.com**<br>
 
 
 ## 🌐 Socials:
