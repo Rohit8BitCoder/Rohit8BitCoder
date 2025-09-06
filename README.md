@@ -38,7 +38,7 @@ I believe in building in public, learning by breaking things, and sharing knowle
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,linux,docker,git,postman,github,vscode,neovim,vim" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,tailwind,bootstrap,linux,docker,git,postman,github,vscode,neovim,vim" />
 </p>
 
 ---
