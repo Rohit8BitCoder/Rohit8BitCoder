@@ -1,25 +1,48 @@
-# 💫 About Me:
-🌱 I’m currently learning **c++,javascript,html,css,sql** <br><br>💬 Ask me about **c++**<br><br>📫 How to reach me **rohitsnegi72@gmail.com**<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzz_rohitt_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/just-rohit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rohit_negi_x) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohit8BitCoder&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit8BitCoder&theme=default&hide_border=true)<br/>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<!-- Hacker Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=500&color=89B4FA&center=true&vCenter=true&width=600&lines=Initializing+profile...;Loading+modules...;Welcome+to+Rohit's+Terminal" alt="Typing SVG"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohit8BitCoder&icon=7&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dizzy_rohit) 
+### 👾 About Me  
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Hi, I'm **Rohit Singh Negi**, a **self-taught Full Stack Developer 🚀** from India. I’m currently exploring projects on my own and diving deep into the worlds of **MERN, SQL, automation, and Linux**.  
+
+I’m a **Linux enthusiast, FOSS lover, and terminal dweller**, always tweaking and ricing my Arch setup. Outside the code cave, you’ll usually find me **listening to music, watching anime, or perfecting my Linux workflow**.  
+
+I believe in building in public, learning by breaking things, and sharing knowledge in ways that empower others.  
+
+If you want to connect or just say hi:  
+- 🐦 Twitter: [@Rohit_Negi_X](https://x.com/Rohit_Negi_X)  
+- 💼 LinkedIn: [just-rohit](https://www.linkedin.com/in/just-rohit)  
+- 📧 Email: rohitsnegi72@gmail.com  
+
+---
+
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,linux,docker,git,github,vscode" />
+</p>
+
+---
+
+### 📟 System Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit8bitcoder&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=89B4FA&icon_color=A6E3A1&text_color=CBA6F7" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit8bitcoder&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=F38BA8&fire=F38BA8&currStreakLabel=F9E2AF" height="170" />
+</p>
+
+---
+
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/rohit8bitcoder/rohit8bitcoder/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+### 🎬 Coder Vibes  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder animation"/>
+</p>
