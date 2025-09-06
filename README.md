@@ -13,12 +13,21 @@ I’m a **Linux enthusiast, FOSS lover, and terminal dweller**, always tweaking 
 
 I believe in building in public, learning by breaking things, and sharing knowledge in ways that empower others.  
 
-If you want to connect or just say hi:  
-- 🐦 Twitter: [@Rohit_Negi_X](https://x.com/Rohit_Negi_X)  
-- 💼 LinkedIn: [just-rohit](https://www.linkedin.com/in/just-rohit)  
-- 📧 Email: rohitsnegi72@gmail.com  
 
----
+### 👋 Connect with me
+
+<p align="center">
+  <a href="https://x.com/Rohit_Negi_X" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/just-rohit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rohitsnegi72@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 
 ### 🛠️ Tech Stack  
 <p align="center">
