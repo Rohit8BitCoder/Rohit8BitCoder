@@ -7,31 +7,38 @@
 
 ### 👾 About Me  
 
-Hi, I'm **Rohit Singh Negi**, a **self-taught Full Stack Developer 🚀** from India. I’m currently exploring projects on my own and diving deep into the worlds of **MERN, SQL, automation, and Linux**.  
+Hi, I'm **Rohit Singh Negi**, a **self-taught Full Stack Developer 🚀** from India.  
+I’m exploring projects on my own and diving deep into **MERN, SQL, automation, and Linux**.  
 
-I’m a **Linux enthusiast, FOSS lover, and terminal dweller**, always tweaking and ricing my Arch setup. Outside the code cave, you’ll usually find me **listening to music, watching anime, or perfecting my Linux workflow**.  
+I’m a **Linux enthusiast, FOSS lover, and terminal dweller**, always tweaking and ricing my Arch setup.  
+Outside the code cave, you’ll usually find me **listening to music, watching anime, or perfecting my Linux workflow**.  
 
 I believe in building in public, learning by breaking things, and sharing knowledge in ways that empower others.  
 
+---
 
-### 👋 Connect with me
+### 📬 Connect with Me  
 
 <p align="center">
   <a href="https://x.com/Rohit_Negi_X" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=89B4FA" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/just-rohit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="mailto:rohitsnegi72@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=D14836" alt="Email"/>
+  </a>
+  <a href="https://github.com/rohit8bitcoder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=12100E" alt="GitHub"/>
   </a>
 </p>
 
+---
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,linux,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,linux,docker,git,github,vscode,neovim,vim" />
 </p>
 
 ---
