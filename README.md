@@ -43,22 +43,23 @@ I believe in building in public, learning by breaking things, and sharing knowle
 
 ---
 
-### 📟 System Stats  
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohit8bitcoder&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=89B4FA&icon_color=A6E3A1&text_color=CBA6F7" height="170" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit8bitcoder&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=F38BA8&fire=F38BA8&currStreakLabel=F9E2AF" height="170" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake  
+
 <p align="center">
   <img src="https://github.com/rohit8bitcoder/rohit8bitcoder/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
 
-### 🎬 Coder Vibes  
+ 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder animation"/>
 </p>
